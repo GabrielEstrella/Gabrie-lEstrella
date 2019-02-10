@@ -1,0 +1,5 @@
+theme = "hugo-academic"
+baseURL = "/"
+title = "Academic"
+languageCode = "en-us"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
