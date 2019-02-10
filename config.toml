@@ -2,4 +2,5 @@ theme = "hugo-academic"
 baseURL = "/"
 title = "Academic"
 languageCode = "en-us"
+copyright = "&copy; 2016 GabrielE"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
